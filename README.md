@@ -1,9 +1,14 @@
 # Ranking-Search-Engine
+<style>
+        .tab2 {
+            tab-size: 4;
+        }
+    </style>
 The project has three parts:
 
 <strong>First part :</strong>
 
- 1.Read 10 files (.txt) <br>
+ <pre class="tab2"> </pre>1.Read 10 files (.txt) <br>
  2.Apply tokenization <br>
  3.Apply Stop words<br>
 <strong>Secondpart :</strong>
