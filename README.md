@@ -1,12 +1,12 @@
 # Ranking-Search-Engine
 The project has three parts:
 
-First part :
+<strong>First part :</strong>
 
  1.Read 10 files (.txt) <br>
- 2.Apply tokenization
- 3.Apply Stop words
-Secondpart :
+ 2.Apply tokenization <br>
+ 3.Apply Stop words<br>
+<strong>Secondpart :</strong>
 
 Build positional index and displays each term as the following : <term, number of docs containing term;doc1: position1, position2 ... ;doc2: position1, position2 ... ;etc.>
 image
