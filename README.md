@@ -3,7 +3,7 @@ The project has three parts:
 
 First part :
 
- 1.Read 10 files (.txt)<b>
+ 1.Read 10 files (.txt) <br>
  2.Apply tokenization
  3.Apply Stop words
 Secondpart :
