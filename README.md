@@ -3,9 +3,9 @@ The project has three parts:
 
 First part :
 
-Read 10 files (.txt)
-Apply tokenization
-Apply Stop words
+ 1.Read 10 files (.txt)
+ 2.Apply tokenization
+ 3.Apply Stop words
 Secondpart :
 
 Build positional index and displays each term as the following : <term, number of docs containing term;doc1: position1, position2 ... ;doc2: position1, position2 ... ;etc.>
