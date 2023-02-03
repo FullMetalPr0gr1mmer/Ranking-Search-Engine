@@ -2,10 +2,10 @@
 The project has three parts:
 
 <strong>First part :</strong><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 1.Read 10 files (.txt)  
-  2.Apply tokenization  
-  3.Apply Stop words</pre>
-<strong>Secondpart : </strong>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.Read 10 files (.txt)  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 2.Apply tokenization <br><br> 
+&nbsp;&nbsp;&nbsp;&nbsp; 3.Apply Stop words<br><br>
+<strong>Secondpart : </strong><br><br>
 
 Build positional index and displays each term as the following : <term, number of docs containing term;doc1: position1, position2 ... ;doc2: position1, position2 ... ;etc.>
 image
