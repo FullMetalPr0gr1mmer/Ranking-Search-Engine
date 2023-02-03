@@ -1,16 +1,11 @@
 # Ranking-Search-Engine
-<style>
-        .tab2 {
-            tab-size: 4;
-        }
-    </style>
 The project has three parts:
 
-<strong>First part :</strong>
+<strong>First part :</strong><br><br>
 
- <pre class="tab2"> </pre>1.Read 10 files (.txt) <br>
- 2.Apply tokenization <br>
- 3.Apply Stop words<br>
+      1.Read 10 files (.txt) <br>
+      2.Apply tokenization <br>
+      3.Apply Stop words<br><br><br>
 <strong>Secondpart :</strong>
 
 Build positional index and displays each term as the following : <term, number of docs containing term;doc1: position1, position2 ... ;doc2: position1, position2 ... ;etc.>
